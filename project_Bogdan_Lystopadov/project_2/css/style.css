@@ -1,0 +1,209 @@
+
+*{
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 1240px;
+}
+/*ВЛАСТИВОСТІ ДО БЛОКУ-1 (УКРАЇНА 2023)*/
+.red1{
+	margin-left: 50px;
+	font-size: 50px;
+}
+.chocolate{
+	background: #d4f9f2;
+	height: 700px;
+	width: 1240px;
+	font-family: 'Jura', sans-serif;
+}
+.button_1{
+	background: #FF1C52;
+	width: 270px;
+	height: 40px;
+	margin-left: 50px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+.button_1:hover{
+	background: blue;
+}
+.orange1{
+	float: right;
+	width: 690px;
+	height: 512px;
+	display: inline-block;
+	margin-right: 40px;
+}
+.red{
+	padding-top: 250px;
+	margin-left: 50px;
+	font-size: 80px;
+	margin-top: 10px;
+}
+ /*ВЛАСТИВОСТІ ДО БЛОКУ-1(КІНЕЦЬ)*/
+   /*ВЛАСТИВОСТІ ДО БЛОКУ-2(НОВОРІЧНІ ПОБАЖАННЯ СВІТУ)*/
+.section_2{
+	height: 430px;
+	width: 1240px;
+	background: #FF1C52;
+    font-family: 'Jura';
+}
+.h_1{
+	text-align: center;
+	color: white;
+	padding-top: 26px;
+}
+.div_2{
+	width: 260px;
+	height: 250px;
+	background: #258A86;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+.p_1{
+	margin-left: 10px;
+	width:106px;
+    height:19px;
+    size: 16px;
+}
+.p_2{
+	margin-left: 10px;
+}
+.div_1{
+	width: 260px;
+	height: 250px;
+	background:white;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;
+}
+ .img_1{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+
+ .img_2{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_3{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_4{
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+  /*ВЛАСТИВОСТІ ДО БЛОКУ-2(КІНЕЦЬ)*/
+  /*ВЛАСТИВОСТІ ДО БЛОКУ-3(НОВОРІЧНІ ПОБАЖАННЯ УКРАЇНІ)*/
+ .section_3{
+	height: 430px;
+	width: 1240px;
+	background: #d4f9f2;
+    font-family: 'Jura';
+}
+.div_5{
+	width: 260px;
+	height: 250px;
+	background:white;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;}
+.div_6{
+	width: 260px;
+	height: 250px;
+	background: #F9C00D;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;}
+.div_7{
+	width: 260px;
+	height: 250px;
+	background:white;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;}
+
+.div_8{
+	width: 260px;
+	height: 250px;
+    background: #F9C00D;
+	margin-left: 33px;
+	display: inline-block;
+	float: left;
+	margin-top: 30px;}
+.img_6{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_7{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+.img_8{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .img_9{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ .h_2{
+    color: #258A86;
+    text-align: center;
+	padding-top: 26px;
+ }
+ /*ВЛАСТИВОСТІ ДО БЛОКУ-3(КІНЕЦЬ)*/
+  /*ВЛАСТИВОСТІ ДО БЛОКУ-4(НОВОРІЧНІ ПОБАЖАННЯ РОДИНІ)*/
+ .section_4{
+	height: 430px;
+	width: 1240px;
+    background: #FF1C52;
+    font-family: 'Jura';
+}
+ .img_10{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+.img_11{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+.img_12{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+.img_13{
+	height: 60px;
+	width: 56px;
+ 	margin-top: 5px;
+ 	margin-left: 5px;
+ }
+ /*ВЛАСТИВОСТІ ДО БЛОКУ-4(КІНЕЦЬ)*/
+
+
