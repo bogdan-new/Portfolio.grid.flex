@@ -1,0 +1,491 @@
+*{
+ margin: 0 auto;
+
+}
+/*шапка сайту*/
+.header_new{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ max-width: 1449px;
+ width:  1440px;
+ height: 192px; 
+}
+.game_logo{
+ width: 70px;
+ height: 70px;
+ display: flex;
+ width: 
+}
+.h1_text_logo{
+ font-family: 'Foldit', cursive;
+ font-size:  35px;
+   background: white;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.wraper_header_elements{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 522px;
+ height: 80px;
+}
+/*Шапка сайту кінець*/
+.section_choice{
+   background-image: url(../img/bg_1.jpg); 
+  width: 100%;
+    background-size: 100%;
+    height: 946px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    margin: 0 auto;
+}
+.wraper_blocks{
+ width:  712px;
+ height: 500px;
+ display: flex; 
+ align-items: center;
+}
+.block_1{
+    width: 201px;
+    height: 245px;
+    background: black;
+    border: 3px solid black;
+    border-radius: 44px;
+    background: rgb(8,107,4);
+    background: rgb(125,174,123);
+     background: linear-gradient(0deg, rgba(125,174,123,1) 0%, rgba(10,174,2,1) 100%);
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}
+.block_1:hover{
+box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.8);
+   transform: scale(1.1);
+   transition: all 0,3;
+    transition: 1s;
+}
+.block_2{
+    width: 201px;
+    height: 245px;
+    background: black;
+    border: 3px solid black;
+    border-radius: 44px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}
+.block_2:hover{
+box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.8);
+   transform: scale(1.1);
+   transition: all 0,3;
+    transition: 1s;
+}
+.block_3{
+    width: 201px;
+    height: 245px;  
+    background: black;
+    border: 3px solid black;
+    border-radius: 44px;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    background: rgb(123,155,174);
+background: linear-gradient(0deg, rgba(123,155,174,1) 0%, rgba(2,101,174,1) 100%); 
+}
+.block_3:hover{
+    box-shadow: 0 0 0 99999px rgba(0, 0, 0, 0.8);
+ transform: scale(1.1);
+ transition: all 0,3;
+ transition: 1s;
+}
+.minecraft{
+     width: 140px;
+     height: 150px;
+
+}
+.h1_minecraft{
+ color:  white;
+     font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+}
+.h1_roblox{
+ color:  white;
+     font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+}
+.text_main{
+ color: white;
+ position: relative;
+ font-size: 40px;
+ z-index: 10;
+ text-align: center;
+}
+.roblox_video{
+    object-fit: cover;
+ position: absolute;
+ opacity: 1.1;
+ min-width: 100%;
+}
+.body{
+ padding: 0 auto;
+ margin: 0 auto;
+}
+.section_minecraft{
+    max-width: 1240px;
+ height: 890px;
+ overflow: hidden;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.minecraft_video{
+ object-fit: cover;
+ position: absolute;
+ opacity: 1.1;
+ min-width: 100%;
+}
+.minecraft_video{
+ max-width: 100%;
+}
+.information{
+ width: 462px;
+ height: 315px;
+ z-index: 10; 
+}
+.h1_information{
+ font-size: 30px;
+ font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+color: white;
+}
+.wraper_blocks_1{
+ display: flex;
+ justify-content: space-around;
+ align-items: flex-end;
+ width: 414px;
+ height: 166px;
+}
+.steve{
+ z-index: 10;
+    width: 165px;
+    height: 177px;  
+}
+.button_1{
+ width: 250px;
+ height: 60px;
+ background: green;
+}
+.h1_button{
+ font-size: 20px;
+ color: white;
+}
+.steve1{
+    z-index: 10;
+    width: 125px;
+    height: 167px;  
+}
+.steve3{
+    z-index: 10;
+    width: 175px;
+    height: 167px;  
+}
+.header{
+ width: 1240px;
+ height: 110px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.h1_gleve{
+ font-size: 30px;
+ color: white;
+      font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+}
+.p_main{
+ font-size: 17px;
+}
+.wraper{
+ width:  1240px;
+ height: 436px;
+ display: flex; 
+ justify-content: space-between; 
+}
+.block_text{
+ width:  559px;
+ height: 440px;
+ background: rgba(255, 255, 255, 0.5);
+ text-align: center;
+}
+.img_main{
+ width:  600px;
+ height: 440px;
+ display: flex;
+ align-items: center;
+ }
+.minecraft3{
+  width: 350px;
+  height: 350px;
+}
+.section_minecraft2{
+  width: 100%;
+ height: 751px;
+ margin: 0 auto;
+  background-image: url(../img/fon.jpg);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft4{
+  width: 100%;
+ height: 751px;
+ margin: 0 auto;
+  background-image: url(../img/fon1.jpg);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft10{
+  width: 1240px;
+  height: 577px;
+  margin: 0 auto;
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft11{
+  width: 1240px;
+  height: 577px;
+  margin: 0 auto;
+  background-image: url(../img/bg.jpg);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft12{
+  width: 1240px;
+  height: 577px;
+  margin: 0 auto;
+  background-image: url(../img/popi);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft_8{
+  width: 1240px;
+  height: 577px;
+  margin: 0 auto;
+  background-image: url(../img/bg_2.jpg);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft_9{
+  width: 1240px;
+  height: 577px;
+  margin: 0 auto;
+  background-image: url(../img/bg_3.jpg);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.section_minecraft_0{
+  width: 1240px;
+  height: 457px;
+  margin: 0 auto;
+  background-image: url(../img/polp);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.header1{
+ width: 1240px;
+ height: 71px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  background-image: url(https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/c/c1/GrassBackground.png/revision/latest?cb=20210401100642&format=original) 
+}
+.h1_gleve3{
+  font-size: 30px;
+  color: white;
+        font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+}
+.p_main1{
+  font-size: 20px;
+    font-family: 'Foldit', cursive;
+}
+.wraper3{
+  width:  972px;
+  height: 470px;
+  display: flex;  
+  justify-content: space-between; 
+}
+.block_text3{
+  width:  553px;
+  height: 462px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.img_main1{
+width: 407px;
+    height: 395px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.section_minecraft_2{
+  width: 1240px;
+  height: 468px;
+  margin: 0 auto;
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.list_header{
+  width: 1240px;
+  height: 70px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+  background-image: url(https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/c/c1/GrassBackground.png/revision/latest?cb=20210401100642&format=original)
+}
+.h_1_list_game{
+  font-size: 30px;
+  color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Foldit', cursive;
+}
+  .navigation a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 80px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+        background-position: 50%;
+    background-repeat: no-repeat;
+    position: fixed;
+        z-index: 399;
+}
+.navigation a:hover {
+    left: 0;
+}
+
+.history {
+    top: 20px;
+    background-color: #4CAF50;
+}
+
+.blog {
+    top: 80px;
+    background-color: #2196F3;
+}
+
+.projects {
+    top: 140px;
+    background-color: #f44336;
+}
+
+.contact {
+    top: 200px;
+    background-color: #555
+}
+.block_8{
+  width: 1235px;
+  height: 367px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.main_1{
+  width: 596px;
+  height: 162px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+      background: rgba(255, 255, 250, 0.5);
+
+}
+.img_block{
+  width: 140px;
+  height: 140px;
+}
+.minecraft_2{
+  width: 140px;
+  height: 140px;
+  padding-right: 5px;
+}
+.text_main1{
+  font-family: 'Foldit', cursive;
+  padding-left: 20px;
+}
+.section_minecraft_3{
+  width: 1240px;
+  height: 468px;
+  margin: 0 auto;
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+}
+.h_1_list_game_2{
+  font-size: 30px;
+  color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Foldit', cursive;
+}
+.block_9{
+  width: 1235px;
+  height: 367px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.mouse{
+    width: 1240px;
+    height: 577px;
+     background-image: url(../img/index.png);
+  background-size: 100%;
+     background-repeat: no-repeat;
+    background-position-x: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.list_header {
+  width: 1240px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://static.wikia.nocookie.net/minecraft_ru_gamepedia/images/c/c1/GrassBackground.png/revision/latest?cb=20210401100642&format=original);
+}
+.chocolate{
+    width: 400px;
+    height: 150px;
+    background: white;
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.chocolate1{
+    width: 400px;
+    height: 150px;
+    background: white;
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,58 @@
+.body{
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+
+.section_minecraft{
+    max-width: 1240px;
+	height: 490px;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.minecraft_video{
+ object-fit: cover;
+ position: absolute;
+ opacity: 1.1;
+ min-width: 100%;
+}
+.minecraft_video{
+	max-width: 100%;
+}
+.information{
+	width: 462px;
+	height: 315px;
+	z-index: 10;	
+}
+.h1_information{
+	font-size: 30px;
+	font-family: 'Bebas Neue', sans-serif;
+font-family: 'Foldit', cursive;
+color: white;
+}
+.wraper_blocks_1{
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	width: 414px;
+	height: 166px;
+}
+.steve{
+	z-index: 10;
+    width: 165px;
+    height: 177px;	 
+}
+.button_1{
+	width: 250px;
+	height: 60px;
+	background: green;
+	text-decoration: none
+}
+.h1_button{
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
